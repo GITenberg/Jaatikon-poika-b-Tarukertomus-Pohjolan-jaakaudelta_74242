@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '46681'
     url: http://www.gutenberg.org/2009/agents/46681
     wikipedia: https://fi.wikipedia.org/wiki/Impi_Sirkka
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jensen, Johannes V. (Johannes Vilhelm)
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Johannes_V._Jensen
     - https://da.wikipedia.org/wiki/Johannes_V._Jensen
 description: 'Translation of book 2 of: Den lange rejse.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74242#Jaatikon-poika-b-Tarukertomus-Pohjolan-jaakaudelta
 gutenberg_issued: '2024-08-12'
 gutenberg_type: Text
 identifiers:
